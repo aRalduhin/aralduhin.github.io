@@ -1,1 +1,16 @@
-{"applinks":{"apps":[],"details":[{"appID":"2828KVL2FZ.com.rallyware.mobile","paths":["/*"]}]}}
+{
+    "applinks": {
+        "details": [
+            {
+                "appIDs": [
+                    "2828KVL2FZ.com.rallyware.mobile"
+                ],
+                "components": [
+                    {
+                        "/": "/*"
+                    }
+                ]
+            }
+        ]
+    }
+}
