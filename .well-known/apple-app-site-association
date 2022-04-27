@@ -3,10 +3,10 @@
         "apps": [],
         "details": [
             {
-                "appID": "2828KVL2FZ.com.avon.canada.rally",
+                "appID": "2828KVL2FZ.com.rallyware.mobile",
                 "paths": ["*"],
                 "appIDs": [
-                    "2828KVL2FZ.com.avon.canada.rally"
+                    "2828KVL2FZ.com.rallyware.com"
                 ],
                 "components": [
                     {
